@@ -5,7 +5,7 @@ greencar_width= 75;
 greencar_height= 100;
 
 background_image = "parkingLot.jpg";
-greencar_image = "https://www.clker.com/cliparts/J/W/v/e/2/z/vertical-top-view-of-car-hi.png";
+greencar_image = "car2.png";
 
 greencar_x= 5;
 greencar_y= 225;
